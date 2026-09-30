@@ -15,4 +15,6 @@ described here, and nowhere else.
 
 ## Call types
 
-None yet. The first ones arrive one per pull request, each with its architecture note.
+- `request_npc_depth` -- a party member asks the Court for depth; the Court may refuse (docs/architecture/0002).
+
+More arrive one at a time, each with its architecture note.
